@@ -3,7 +3,7 @@
 require "osx/cocoa"
 include OSX
 
-interval = 3.0
+interval = 10.0
 
 class UpdateStatusItem
   def initialize
